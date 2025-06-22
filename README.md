@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Text to Speech PDF Converter
 
 This is a simple Python app that extracts text from a PDF file and converts it to speech using the offline `pyttsx3` library.
@@ -49,3 +50,6 @@ This is a simple Python app that extracts text from a PDF file and converts it t
 ## License
 
 This project is for educational purpose.
+=======
+Text_to_Speech App
+>>>>>>> c9206ecfe8069289064a95e0cf69fed84e743ee5
